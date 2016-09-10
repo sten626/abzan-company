@@ -1,7 +1,7 @@
 # abzan-company
 My MTG Abzan Company decklist
 
-## Version 1.2.0
+## Version 1.3.0
 ## Main Deck
 ### Mana Creatures (9)
 - 2 Avacyn's Pilgrim
@@ -18,13 +18,13 @@ My MTG Abzan Company decklist
 - 2 Viscera Seer
 
 ### Utility Creatures (8)
+- 1 Anafenza the Foremost
+- 1 Courser of Kruphix
 - 2 Eternal Witness
 - 1 Fiend Hunter
 - 1 Orzhov Pontiff
-- 1 Qasali Pridemage
 - 1 Scavenging Ooze
 - 1 Selfless Spirit
-- 1 Spellskite
 
 ### Spells (8)
 - 4 Chord of Calling
@@ -48,8 +48,9 @@ My MTG Abzan Company decklist
 - 1 Aven Mindcensor
 - 1 Courser of Kruphix
 - 1 Eidolon of Rhetoric
+- 1 Kataki, War's Wage
 - 1 Maelstrom Pulse
 - 3 Path to Exile
 - 1 Pharika, God of Affliction
-- 1 Reclamation Sage
-- 3 Tidehollow Sculler
+- 2 Qasali Pridemage
+- 1 Spellskite

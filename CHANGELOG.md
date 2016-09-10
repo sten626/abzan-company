@@ -3,6 +3,23 @@ All changes to the deck list will be documented in this file.
 
 Patch version changes are classified as any changes to the sideboard only. Minor version changes are classified as changes to the main deck up to 4 cards. Major version changes are classified as changes to the main deck of 5 or more cards.
 
+## 1.3.0 (2016-09-09)
+### Added to Main
+- 1 Anafenza the Foremost
+- 1 Courser of Kruphix
+
+### Main to Sideboard
+- 1 Qasali Pridemage
+- 1 Spellskite
+
+### Added to Sideboard
+- 1 Kataki, War's Wage
+- 1 Qasali Pridemage
+
+### Removed from Sideboard
+- 1 Reclamation Sage
+- 3 Tidehollow Sculler
+
 ## 1.2.0 (2016-09-01)
 ### Added to Sideboard
 - 1 Courser of Kruphix
@@ -10,7 +27,7 @@ Patch version changes are classified as any changes to the sideboard only. Minor
 - 1 Eidolon of Rhetoric
   - Seeing more and more people playing this card. Want to try it out.
 
-### Side to Main
+### Sideboard to Main
 - 1 Selfless Spirit
   - Just really like this card and still want it in the main deck.
 
