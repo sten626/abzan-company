@@ -36,7 +36,7 @@ Patch version changes are classified as any changes to the sideboard only. Minor
 - 1 Qasali Pridemage
   - Switching back to a Reclamation Sage.
 
-## 1.3.0 (2016-09-09)
+## [1.3.0](https://github.com/sten626/abzan-company/compare/1.2.0...1.3.0) (2016-09-09)
 ### Added to Main
 - 1 Anafenza the Foremost
 - 1 Courser of Kruphix
@@ -53,7 +53,7 @@ Patch version changes are classified as any changes to the sideboard only. Minor
 - 1 Reclamation Sage
 - 3 Tidehollow Sculler
 
-## 1.2.0 (2016-09-01)
+## [1.2.0](https://github.com/sten626/abzan-company/compare/1.1.0...1.2.0) (2016-09-01)
 ### Added to Sideboard
 - 1 Courser of Kruphix
   - Card I love that is helpful in many matchups.
@@ -72,7 +72,7 @@ Patch version changes are classified as any changes to the sideboard only. Minor
 - 1 Tidehollow Sculler
   - Don't side these in very often in local meta. Making room for other stuff.
 
-## 1.1.0 (2016-08-27)
+## [1.1.0](https://github.com/sten626/abzan-company/compare/1.0.0...1.1.0) (2016-08-27)
 ### Added
 - 1 Cartel Aristocrat
   - Substitute for the third Viscera Seer to hedge against Pithing Needle.
