@@ -3,6 +3,39 @@ All changes to the deck list will be documented in this file.
 
 Patch version changes are classified as any changes to the sideboard only. Minor version changes are classified as changes to the main deck up to 4 cards. Major version changes are classified as changes to the main deck of 5 or more cards.
 
+## 1.4.0 (2016-09-15)
+### Added to Main
+- 1 Archangel of Thune
+  - Adding in Spike Feeder combo.
+- 1 Spike Feeder
+  - Adding in Spike Feeder combo.
+
+### Sideboard to Main
+- 1 Qasali Pridemage
+  - Rearranging silver bullets.
+- 1 Spellskite
+  - Rearranging silver bullets.
+
+### Main to Sideboard
+- 1 Anafenza the Foremost
+  - Rearranging silver bullets.
+- 1 Selfless Spirit
+  - Rearranging silver bullets.
+
+### Added to Sideboard
+- 1 Reclamation Sage
+  - Changing back from second Qasali.
+
+### Removed from Main
+- 1 Cartel Aristocrat
+  - Shaving a sac outlet to make room for Spike Feeder combo.
+- 1 Courser of Kruphix
+  - Making room.
+
+### Removed from Sideboard
+- 1 Qasali Pridemage
+  - Switching back to a Reclamation Sage.
+
 ## 1.3.0 (2016-09-09)
 ### Added to Main
 - 1 Anafenza the Foremost
