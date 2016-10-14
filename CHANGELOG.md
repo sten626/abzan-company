@@ -3,6 +3,39 @@ All changes to the deck list will be documented in this file.
 
 Patch version changes are classified as any changes to the sideboard only. Minor version changes are classified as changes to the main deck up to 4 cards. Major version changes are classified as changes to the main deck of 5 or more cards.
 
+## [2.0.0](https://github.com/sten626/abzan-company/compare/1.5.0...2.0.0) (2016-10-13)
+### Added to Main
+- 2 Eternal Witness
+  - Going back up to 4.
+- 1 Scavenging Ooze
+  - Adding it back like I said I would.
+- 1 Spellskite
+  - More combo protection.
+- 1 Viscera Seer
+  - Going back up to 3.
+
+### Main to Sideboard
+- 1 Orzhov Pontiff
+  - Trying it in the sideboard.
+
+### Added to Sideboard
+- 1 Selfless Spirit
+  - Wanted 2 in the 75. Love it.
+
+### Removed from Main
+- 1 Archangel of Thune
+  - Taking out Spike Feeder combo.
+- 1 Spike Feeder
+  - Taking out Spike Feeder combo.
+- 2 Tireless Tracker
+  - They were meh.
+
+### Removed from Sideboard
+- 1 Aven Mindcensor
+  - Making room to try things.
+- 1 Eidolon of Rhetoric
+  - Making room to try things.
+
 ## [1.5.0](https://github.com/sten626/abzan-company/compare/1.4.0...1.5.0) (2016-10-06)
 ### Added to Main
 - 2 Tireless Tracker

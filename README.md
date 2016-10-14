@@ -1,7 +1,7 @@
 # abzan-company
 My MTG Abzan Company decklist
 
-## Version 1.5.0
+## Version 2.0.0
 ## Main Deck
 ### Mana Creatures (9)
 - 2 Avacyn's Pilgrim
@@ -9,21 +9,19 @@ My MTG Abzan Company decklist
 - 1 Noble Hierarch
 - 2 Wall of Roots
 
-### Combo Creatures (13)
+### Combo Creatures (12)
 - 2 Anafenza, Kin-Tree Spirit
-- 1 Archangel of Thune
 - 4 Kitchen Finks
 - 2 Melira, Sylvok Outcast
 - 1 Murderous Redcap
-- 1 Spike Feeder
-- 2 Viscera Seer
+- 3 Viscera Seer
 
-### Utility Creatures (7)
-- 2 Eternal Witness
+### Utility Creatures (8)
+- 4 Eternal Witness
 - 1 Fiend Hunter
-- 1 Orzhov Pontiff
+- 1 Scavenging Ooze
 - 1 Selfless Spirit
-- 2 Tireless Tracker
+- 1 Spellskite
 
 ### Spells (8)
 - 4 Chord of Calling
@@ -44,12 +42,12 @@ My MTG Abzan Company decklist
 ## Sideboard
 - 2 Abrupt Decay
 - 1 Anafenza, the Foremost
-- 1 Aven Mindcensor
 - 2 Distended Mindbender
-- 1 Eidolon of Rhetoric
 - 1 Maelstrom Pulse
+- 1 Orzhov Pontiff
 - 3 Path to Exile
 - 1 Pharika, God of Affliction
 - 1 Qasali Pridemage
 - 1 Reclamation Sage
+- 1 Selfless Spirit
 - 1 Voice of Resurgence
