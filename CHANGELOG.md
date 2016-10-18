@@ -11,6 +11,8 @@ Patch version changes are classified as any changes to the sideboard only. Minor
   - Adding it back like I said I would.
 - 1 Spellskite
   - More combo protection.
+- 1 Verdant Catacombs
+  - 1 down, 3 to go.
 - 1 Viscera Seer
   - Going back up to 3.
 
@@ -25,6 +27,8 @@ Patch version changes are classified as any changes to the sideboard only. Minor
 ### Removed from Main
 - 1 Archangel of Thune
   - Taking out Spike Feeder combo.
+- 1 Misty Rainforest
+  - Got a Catacombs.
 - 1 Spike Feeder
   - Taking out Spike Feeder combo.
 - 2 Tireless Tracker

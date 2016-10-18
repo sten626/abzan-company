@@ -31,12 +31,13 @@ My MTG Abzan Company decklist
 - 2 Forest
 - 3 Gavony Township
 - 1 Godless Shrine
-- 4 Misty Rainforest
+- 3 Misty Rainforest
 - 2 Overgrown Tomb
 - 1 Plains
 - 3 Razorverge Thicket
 - 1 Swamp
 - 2 Temple Garden
+- 1 Verdant Catacombs
 - 4 Windswept Heath
 
 ## Sideboard
