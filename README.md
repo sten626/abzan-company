@@ -1,12 +1,12 @@
 # abzan-company
 My MTG Abzan Company decklist
 
-## Version 2.1.0
+## Version 2.2.0
 ## Main Deck
 ### Mana Creatures (9)
-- 2 Avacyn's Pilgrim
+- 1 Avacyn's Pilgrim
 - 4 Birds of Paradise
-- 1 Noble Hierarch
+- 2 Noble Hierarch
 - 2 Wall of Roots
 
 ### Combo Creatures (12)
@@ -33,7 +33,8 @@ My MTG Abzan Company decklist
 - 3 Gavony Township
 - 1 Godless Shrine
 - 3 Misty Rainforest
-- 2 Overgrown Tomb
+- 1 Murmuring Bosk
+- 1 Overgrown Tomb
 - 1 Plains
 - 3 Razorverge Thicket
 - 1 Swamp
@@ -44,12 +45,12 @@ My MTG Abzan Company decklist
 ## Sideboard
 - 2 Abrupt Decay
 - 1 Anafenza, the Foremost
+- 1 Blessed Alliance
+- 1 Burrenton Forge-Tender
 - 2 Distended Mindbender
-- 1 Maelstrom Pulse
 - 1 Orzhov Pontiff
 - 3 Path to Exile
 - 1 Pharika, God of Affliction
 - 1 Qasali Pridemage
 - 1 Reclamation Sage
-- 1 Selfless Spirit
 - 1 Voice of Resurgence

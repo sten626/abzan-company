@@ -3,10 +3,34 @@ All changes to the deck list will be documented in this file.
 
 Patch version changes are classified as any changes to the sideboard only. Minor version changes are classified as changes to the main deck up to 4 cards. Major version changes are classified as changes to the main deck of 5 or more cards.
 
+## [2.2.0](https://github.com/sten626/abzan-company/compare/2.1.0...2.2.0) (2016-11-16)
+### Added to Main
+- 1 Murmuring Bosk
+  - Trying this out. Inspired by Jeff Hoogland.
+- 1 Noble Hierarch
+  - Got my second one.
+
+### Added to Sideboard
+- 1 Blessed Alliance
+  - Wanting to try it out.
+- 1 Burrenton Forge-Tender
+  - Something cheaper to Chord for instead of the second Selfless Spirit.
+
+### Removed from Main
+- 1 Avacyn's Pilgrim
+- 1 Overgrown Tomb
+
+### Removed from Sideboard
+- 1 Maelstrom Pulse
+  - Kept wishing it was an instant.
+- 1 Selfless Spirit
+  - Diversifying.
+
 ## [2.1.0](https://github.com/sten626/abzan-company/compare/2.0.0...2.1.0) (2016-11-04)
 ### Added to Main
 - 2 Tireless Tracker
   - Wanting to try them a bit more.
+
 ### Removed from Main
 - 2 Eternal Witness
 
