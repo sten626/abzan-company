@@ -3,6 +3,19 @@ All changes to the deck list will be documented in this file.
 
 Patch version changes are classified as any changes to the sideboard only. Minor version changes are classified as changes to the main deck up to 4 cards. Major version changes are classified as changes to the main deck of 5 or more cards.
 
+## [2.3.0](https://github.com/sten626/abzan-company/compare/2.2.0...2.3.0) (2016-11-24)
+### Added to Main
+- 1 Eternal Witness
+
+### Sideboard to Main
+- 1 Orzhov Pontiff
+
+### Added to Sideboard
+- 1 Eidolon of Rhetoric
+
+### Removed from Main
+- 2 Tireless Tracker
+
 ## [2.2.0](https://github.com/sten626/abzan-company/compare/2.1.0...2.2.0) (2016-11-16)
 ### Added to Main
 - 1 Murmuring Bosk

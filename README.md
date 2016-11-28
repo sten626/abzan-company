@@ -1,7 +1,7 @@
 # abzan-company
 My MTG Abzan Company decklist
 
-## Version 2.2.0
+## Version 2.3.0
 ## Main Deck
 ### Mana Creatures (9)
 - 1 Avacyn's Pilgrim
@@ -17,12 +17,12 @@ My MTG Abzan Company decklist
 - 3 Viscera Seer
 
 ### Utility Creatures (8)
-- 2 Eternal Witness
+- 3 Eternal Witness
 - 1 Fiend Hunter
+- 1 Orzhov Pontiff
 - 1 Scavenging Ooze
 - 1 Selfless Spirit
 - 1 Spellskite
-- 2 Tireless Tracker
 
 ### Spells (8)
 - 4 Chord of Calling
@@ -48,7 +48,7 @@ My MTG Abzan Company decklist
 - 1 Blessed Alliance
 - 1 Burrenton Forge-Tender
 - 2 Distended Mindbender
-- 1 Orzhov Pontiff
+- 1 Eidolon of Rhetoric
 - 3 Path to Exile
 - 1 Pharika, God of Affliction
 - 1 Qasali Pridemage
